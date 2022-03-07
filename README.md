@@ -35,6 +35,7 @@ The employee is notified each time a new order is performed by a client so that 
 delivery of the ordered products.
 Consider the system of classes in Figure 1 as a starting point for the system design. Other classes
 and packages can be added to design and implement the full functionality of the application.
+![image](https://user-images.githubusercontent.com/73665965/157126643-f89dc740-ae5e-4f78-a32a-7c07a59a10aa.png)
 Figure 1: Class diagram to be considered as starting design of the system.
 To implement the system, consider the following:
 1) Define the interface IDeliveryServiceProcessing containing the main operations that can
