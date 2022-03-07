@@ -1,0 +1,11 @@
+ORDER DETAILS:
+
+Client Name:client
+ClientID: 1
+Order ID: 2
+Order Date: Wed May 12 18:08:04 EEST 2021
+
+Products:
+Asian Cabbage Salad 37.0
+
+Total Price:37.0

@@ -1,0 +1,13 @@
+ORDER DETAILS:
+
+Client Name:client
+ClientID: 1
+Order ID: 1
+Order Date: Wed May 12 18:08:04 EEST 2021
+
+Products:
+Quick & Spicy Asian Pickles 48.0
+Arugula Salad with Heirloom Tomatoes and Red Onion 21.0
+South American-Style Jícama and Orange Salad 25.0
+
+Total Price:94.0
